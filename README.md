@@ -1,7 +1,7 @@
-# <h1 align="center">Thinagar</h1>
-# <div align="center">Data Engineer</div>
+# <div align="center">Thinagar</div>
+<div align="center">Data Engineer</div>
 
-# 🔥About Me:
+## 🔥About Me:
 With more than four years in data, I work on the entire engineering process, from collecting to analyzing. Experienced in Python, SQL, and Spark, I build data pipelines and optimize workflows for quality and scalability. Whether in warehousing or modeling, I enjoy solving complex issues creatively. Besides technical expertise, I excel in dynamic settings, collaborating across teams to turn business needs into scalable data solutions
 
 ## 🌐 Connect With Me:
@@ -10,7 +10,7 @@ With more than four years in data, I work on the entire engineering process, fro
 
 
 
-# 💻 Language & Tools:
+## 💻 Language & Tools:
 ![Python](https://img.shields.io/badge/Python-%230074F2.svg?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23E10098.svg?style=flat&logo=sql&logoColor=white)
 ![HiveQL](https://img.shields.io/badge/HiveQL-%23FF6D42.svg?style=flat)
@@ -27,7 +27,7 @@ With more than four years in data, I work on the entire engineering process, fro
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=flat&logo=gitlab&logoColor=white)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thinagar-sivadas&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thinagar-sivadas&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=thinagar-sivadas&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
