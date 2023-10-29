@@ -1,5 +1,5 @@
-# <div align="center">Thinagar</div>
-<div align="center">Data Engineer</div>
+# Thinagar
+## Data Engineer
 
 ## 🔥About Me:
 With more than four years in data, I work on the entire engineering process, from collecting to analyzing. Experienced in Python, SQL, and Spark, I build data pipelines and optimize workflows for quality and scalability. Whether in warehousing or modeling, I enjoy solving complex issues creatively. Besides technical expertise, I excel in dynamic settings, collaborating across teams to turn business needs into scalable data solutions
