@@ -1,7 +1,7 @@
 <h1 align="center">Thinagar</h1>
 <h2 align="center">Data Engineer</h2>
 
-## 🔥About Me:
+## 💡 About Me:
 With more than four years in data, I work on the entire engineering process, from collecting to analyzing. Experienced in Python, SQL, and Spark, I build data pipelines and optimize workflows for quality and scalability. Whether in warehousing or modeling, I enjoy solving complex issues creatively. Besides technical expertise, I excel in dynamic settings, collaborating across teams to turn business needs into scalable data solutions
 
 ## 🌐 Connect With Me:
@@ -26,6 +26,11 @@ With more than four years in data, I work on the entire engineering process, fro
 ![Matlab (Simulink)](https://img.shields.io/badge/Matlab-%23FDB515.svg?style=flat&logo=mathworks&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=flat&logo=gitlab&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-%230052CC.svg?style=flat&logo=confluence&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0A0A.svg?style=flat&logo=jira&logoColor=white)
+![Dagster](https://img.shields.io/badge/Dagster-%231A1A1A.svg?style=flat&logo=dagster&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thinagar-sivadas&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
