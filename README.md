@@ -8,8 +8,6 @@ With more than four years in data, I work on the entire engineering process, fro
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thinagar) 
 [![Gmail](https://img.shields.io/badge/Gmail-%23FF0000.svg?logo=gmail&logoColor=white)](mailto:thinagarsivadas@gmail.com)
 
-
-
 ## 💻 Language & Tools:
 ![Python](https://img.shields.io/badge/Python-%230074F2.svg?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23E10098.svg?style=flat&logo=sql&logoColor=white)
@@ -30,7 +28,6 @@ With more than four years in data, I work on the entire engineering process, fro
 ![Jira](https://img.shields.io/badge/Jira-%230A0A0A.svg?style=flat&logo=jira&logoColor=white)
 ![Dagster](https://img.shields.io/badge/Dagster-%231A1A1A.svg?style=flat&logo=dagster&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
-
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thinagar-sivadas&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
