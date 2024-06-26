@@ -2,10 +2,10 @@
 <h2 align="center">Data Engineer</h2>
 
 ## 💡 About Me:
-With more than four years in data, I work on the entire engineering process, from collecting to analyzing. Experienced in Python, SQL, and Spark, I build data pipelines and optimize workflows for quality and scalability. Whether in warehousing or modeling, I enjoy solving complex issues creatively. Besides technical expertise, I excel in dynamic settings, collaborating across teams to turn business needs into scalable data solutions
+With more than five years in data, I work on the entire engineering process, from collecting to analyzing. Experienced in Python, SQL, and Spark, I build data pipelines and optimize workflows for quality and scalability. Whether in warehousing or modeling, I enjoy solving complex issues creatively. Besides technical expertise, I excel in dynamic settings, collaborating across teams to turn business needs into scalable data solutions
 
 ## 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thinagar) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thinagar)
 [![Gmail](https://img.shields.io/badge/Gmail-%23FF0000.svg?logo=gmail&logoColor=white)](mailto:thinagarsivadas@gmail.com)
 
 ## 💻 Language & Tools:
